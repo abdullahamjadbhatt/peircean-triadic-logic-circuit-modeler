@@ -1,12 +1,11 @@
-# Compiled files
-*.class
-
 # OS files
 .DS_Store
 Thumbs.db
 desktop.ini
+*.log
+*.tmp
 
-# Netbeans (if you create project later)
+# Netbeans specific (if you create project later)
 nbproject/private/
 build/
 dist/

@@ -1,19 +1,9 @@
-# triadic-logic-circuit-modeler
+# Peircean Triadic Logic Circuit Modeler
 
-Java GUI application.
-
-## Files
-
-- `src/` - Contains all source code (.java and .form files)
+A Java GUI application for modeling and simulating Peircean triadic logic circuits.
 
 ## How to Run
 
-### In Netbeans:
-1. Create new Netbeans project
-2. Copy the `src/` folder into your project
-3. Run the main class
-
-### Or compile manually:
-```bash
-javac src/*.java
-java -cp src [YourMainClass]
+Simply double-click the JAR file or run:
+``bash
+java -jar PeirceanTriadicLogicCircuitModeler.jar
