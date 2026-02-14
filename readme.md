@@ -20,9 +20,6 @@ src/ - Complete source code
 
 ## Building from Source
 Using Netbeans:
-    Create a new Java project
+    Create a new Java GUI project
     Copy the src/ folder contents into your project
     Build and run
-
-## Download
-https://img.shields.io/badge/download-PeirceanTriadicLogicCircuitModeler.jar-blue
