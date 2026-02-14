@@ -24,9 +24,10 @@ src/ - Complete source code
 ## Building from Source
 Using Netbeans:
 
-Create a new Java GUI 
+Create a new Java GUI project
 
 Copy the src/ folder contents into your project
 
 Build and run
+
 
