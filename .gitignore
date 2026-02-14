@@ -1,0 +1,13 @@
+# Compiled files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Netbeans (if you create project later)
+nbproject/private/
+build/
+dist/
+nbbuild/
